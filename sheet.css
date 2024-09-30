@@ -1,0 +1,90 @@
+*{
+	background-color: rgb(120,140,150);
+}
+
+#container_l1{
+	width:500px;
+	height:450px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:150px;
+}
+
+#colorPreview1{
+	width:200px;
+	height:200px;
+	background-color: rgb(90,115,120);
+	display:inline-block;
+}
+
+#colorPreview2{
+	width:140px;
+	height:140px;
+	background-color: rgb(40,130,180);
+	display:inline-block;
+}
+
+#colorPreview3{
+	width:200px;
+	height:200px;
+	background-color: rgb(40,130,180);
+	display:inline-block;
+}
+
+#colorPreview4{
+	width:140px;
+	height:140px;
+	background-color: rgb(90,115,120);
+	display:inline-block;
+}
+
+#container_inputArea{
+	width:344px;
+	height:25px;
+	background-color: rgb(90,115,120);
+}
+
+#staticspace{
+	display: inline-block;
+	font-size:20px;
+	font-family: 'Courier New', monospace;
+	color: rgb(50,200,100);
+	background-color: rgb(90,115,120);
+	margin-left:111px;
+}
+
+#staticspaceText1{
+	display: inline-block;
+	background-color: rgb(90,115,120);
+
+}
+
+#staticspaceText2{
+	display: inline-block;
+	background-color: rgb(90,115,120);
+	margin-left: -4px;
+
+}
+
+#staticspaceText3{
+	display: inline-block;
+	background-color: rgb(90,115,120);
+	margin-left: 145px;
+}
+
+#insertedTextRGB{
+	display: inline-block;
+	position: absolute;
+	border-top: 1px solid rgb(90,115,120);
+	border-bottom: 1px solid rgb(90,115,120);
+	height:23px;
+}
+
+#rgb{
+	display: inline-block;
+	width: 130px;
+	font-size:15px;
+	color: rgb(50,200,100);
+	border: 0px;
+	padding-left:3px;
+}
